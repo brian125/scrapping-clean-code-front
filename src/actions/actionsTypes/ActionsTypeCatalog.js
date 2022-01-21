@@ -1,0 +1,8 @@
+const actionsTypesCatalogo = {
+  LOADING_SUCCESS_CATALOGS: 'LOADING_SUCCESS_CATALOGS',
+  LOAD_SUCCESS_CATALOGS: 'LOAD_SUCCESS_CATALOGS',
+  LOAD_FAILURE_CATALOGS: 'LOAD_FAILURE_CATALOGS',
+  SOFKA_CATALOGO_PELICULAS_AGREGARPELICULA: 'sofka.catalogo.peliculas.agregarpelicula'
+}
+
+export default actionsTypesCatalogo
